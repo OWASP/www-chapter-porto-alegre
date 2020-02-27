@@ -12,21 +12,17 @@ region: Rio Grande do Sul
 
 
 ## Sobre a OWASP
-====
 A OWASP, Open Web Application Security Project, é uma organização internacional sem fins lucrativos destinada à transmissão de conhecimento e conscientização sobre segurança de software, focada especialmente em aplicações web. A mesma desenvolve diferentes projetos, que vão desde ferramentas para teste até documentação, material de estudo e fóruns de discussão abertos à toda a comunidade de segurança.
 
 ## Sobre Porto Alegre
-====
 Situada no paralelo 30, a capital do Rio Grande do Sul tem uma população de quase 1.5 milhão de habitantes e uma crescente região metropolitana. Do ponto de vista acadêmico, a cidade abriga um grande número de faculdades e universidades públicas e privadas, com excelentes índices em rankings nacionais e internacionais.
 
 ## Sobre o Chapter
-====
 O objetivo principal do chapter é fortalecer a comunidade de segurança de software no Rio Grande do Sul através de educação, eventos, promoção da área e projetos de estudo, representando o Projeto OWASP e seus objetivos.
 
 Nossa visão é se tornar uma referência para a comunidade local e ser reconhecido globalmente pela OWASP como um capítulo ativo em diversos níveis através de projetos da entidade.
 
 ## Nossos valores
-====
 * __Educação:__ O conhecimento é um direito e deve ser compartilhado e discutido, não imposto.
 
 * __Transparência total:__ Todas as atividades, decisões, movimentações financeiras e quaisquer atividades da Chapter serão divulgadas publicamente e poderão ser auditadas por qualquer membro da comunidade.
@@ -39,7 +35,6 @@ Nossa visão é se tornar uma referência para a comunidade local e ser reconhec
 
 
 ## Como Participar
-====
 As atividades e decisões da Chapter são completamente horizontais e abertos à toda a comunidade, tanto para a participação como ouvintes, como também para apresentação de conteúdos ou sugestão de temas a serem discutidos, focando na transparência e divulgação de conhecimento de segurança de aplicações web dentro dos objetivos propostos pela OWASP. 
 
 * Nosso grupo no Meetup: <https://www.meetup.com/pt-BR/OWASP-Porto-Alegre-Chapter/>
