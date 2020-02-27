@@ -38,7 +38,9 @@ Nossa visão é se tornar uma referência para a comunidade local e ser reconhec
 As atividades e decisões da Chapter são completamente horizontais e abertos à toda a comunidade, tanto para a participação como ouvintes, como também para apresentação de conteúdos ou sugestão de temas a serem discutidos, focando na transparência e divulgação de conhecimento de segurança de aplicações web dentro dos objetivos propostos pela OWASP. 
 
 Nosso grupo no Meetup: https://www.meetup.com/pt-BR/OWASP-Porto-Alegre-Chapter/
+
 Nossa lista de e-mails: porto-alegre-chapter@owasp.org
+
 Nosso grupo do Telegram: https://t.me/joinchat/AAAAAFfdivqZJjVlZwM06A
 
 <!-- Standard Chapter Page Template
