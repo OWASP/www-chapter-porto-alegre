@@ -23,11 +23,16 @@ O objetivo principal do chapter fortalecer a comunidade de segurança de softwar
 Nossa visão é se tornar uma referência para a comunidade local e ser reconhecido globalmente pela OWASP como um capítulo ativo em diversos níveis através de projetos da entidade.
 
 ## Nossos principais valores:
-*__Educação:__ O conhecimento é um direito e deve ser compartilhado e discutido, não imposto.
-*__Transparência total:__ Todas as atividades, decisões, movimentações financeiras e quaisquer atividades da Chapter serão divulgadas publicamente e poderão ser auditadas por qualquer membro da comunidade.
-*__Colaboração__: ninguém faz sozinho, cada pessoa faz uma parte e dá o seu melhor para cada momento.
-*__Horizontalidade__: ninguém decide sozinho, não temos liderança centralizada e defendemos o auto-gerenciamento em pequenos grupos. 
-*__Igualdade__: Não toleramos discriminação por gênero, raça, orientação sexual ou o que for, todos têm igualmente voz e direito de participação.
+* __Educação:__ O conhecimento é um direito e deve ser compartilhado e discutido, não imposto.
+
+* __Transparência total:__ Todas as atividades, decisões, movimentações financeiras e quaisquer atividades da Chapter serão divulgadas publicamente e poderão ser auditadas por qualquer membro da comunidade.
+
+* __Colaboração__: ninguém faz sozinho, cada pessoa faz uma parte e dá o seu melhor para cada momento.
+
+* __Horizontalidade__: ninguém decide sozinho, não temos liderança centralizada e defendemos o auto-gerenciamento em pequenos grupos.
+
+* __Igualdade__: Não toleramos discriminação por gênero, raça, orientação sexual ou o que for, todos têm igualmente voz e direito de participação.
+
 
 ## Como Participar
 As atividades e decisões da Chapter são completamente horizontais e abertos à toda a comunidade, tanto para a participação como ouvintes, como também para apresentação de conteúdos ou sugestão de temas a serem discutidos, focando na transparência e divulgação de conhecimento de segurança de aplicações web dentro dos objetivos propostos pela OWASP. 
