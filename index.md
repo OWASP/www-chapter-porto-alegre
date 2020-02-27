@@ -33,6 +33,7 @@ Nossa visão é se tornar uma referência para a comunidade local e ser reconhec
 
 * __Igualdade__: Não toleramos discriminação por gênero, raça, orientação sexual ou o que for, todos têm igualmente voz e direito de participação.
 
+***
 
 ## Como Participar
 As atividades e decisões da Chapter são completamente horizontais e abertos à toda a comunidade, tanto para a participação como ouvintes, como também para apresentação de conteúdos ou sugestão de temas a serem discutidos, focando na transparência e divulgação de conhecimento de segurança de aplicações web dentro dos objetivos propostos pela OWASP. 
