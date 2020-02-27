@@ -44,7 +44,7 @@ As atividades e decisões da Chapter são completamente horizontais e abertos à
 
 * Nossa lista de e-mails: <porto-alegre-chapter@owasp.org>
 
-* Nosso grupo do Telegram: <https://t.me/joinchat/AAAAAFfdivqZJjVlZwM06A>
+* Nosso grupo do Telegram: <https://t.me/porto_alegre_owasp>
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
