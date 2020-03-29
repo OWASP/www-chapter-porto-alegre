@@ -2,9 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Porto Alegre
-tags: meeting-tag
+tags: chapter-poa
 region: South America
-level: 2
+level: 0
 
 ---
 
