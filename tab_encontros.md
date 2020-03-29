@@ -1,6 +1,6 @@
 ---
-title: Agenda
-displaytext: Agenda
+title: Encontros
+displaytext: Encontros
 layout: null
 order: 1
 tab: true
