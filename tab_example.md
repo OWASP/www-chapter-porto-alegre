@@ -3,7 +3,7 @@ title: Example
 layout:  null
 tab: true
 order: 2
-tags: example-tag
+tags: owasp-poa
 ---
 
 ## Example
