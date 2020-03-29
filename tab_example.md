@@ -1,8 +1,9 @@
 ---
-title: Example
-layout:  null
+title: Agenda
+displaytext: Agenda
+layout: null
+order: 1
 tab: true
-order: 2
 tags: meeting-tag
 ---
 
