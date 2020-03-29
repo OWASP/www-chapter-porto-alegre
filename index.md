@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Porto Alegre
 tags: owasp-poa
 region: Rio Grande do Sul
+level: 2
 
 ---
 
