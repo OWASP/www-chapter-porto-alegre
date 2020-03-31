@@ -1,5 +1,5 @@
 ---
-title: Meetups e Encontros
+title: Encontros
 displaytext: Encontros
 layout: null
 order: 1
