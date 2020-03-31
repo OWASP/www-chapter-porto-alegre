@@ -11,7 +11,7 @@ tags: chapter-poa
 
 Esta página é utilizada para publicar toda informação compartilhada através dos encontros realizados remota ou localmente. 
 
-Para participar dos encontros, basta inscrever-se através da plataforma Meetup
+Para participar dos encontros, basta inscrever-se através da plataforma Meetup 
 
 * Nosso grupo no Meetup: <https://www.meetup.com/pt-BR/OWASP-Porto-Alegre-Chapter/>
 
