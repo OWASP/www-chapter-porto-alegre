@@ -25,5 +25,11 @@ Neste encontro realizamos uma dinâmica diferente, para que pudéssemos entender
 * [Desafios de Segurança Em Arquitetura de Microsserviços](https://drive.google.com/a/owasp.org/file/d/1j1xE2uturDNxTL24XdtFYwrintDmCE2z/view?usp=sharing) por [Thaiane Braga](https://www.linkedin.com/in/thaianebraga/)
 
 
+### Encontro 002 - 24/06/2020
 
+Neste encontro recebemos dois palestrantes falando sobre segurança de Aplicações, confere:
+
+* [Gravação encontro 002 - 24/06/2020](https://drive.google.com/file/d/1up5Jz9I07tJdOEagfY--T34L-ffvlhoO/view?usp=sharing)
+* [Segurança de Componentes de Aplicação](https://drive.google.com/file/d/1bQQCeUXO5GAtRVR5dH8tMlFoVJNrZ9Sb/view?usp=sharing) por [Fernando Karl](https://www.linkedin.com/in/fernandokarl/)
+* [Owasp API Security Top 10](https://drive.google.com/file/d/19nxiQ90xf0vtK48mcr45yoCl0GSOdk5y/view?usp=sharing) por [Felipe de Almeida](https://www.linkedin.com/in/feliperalmeida/)
 
