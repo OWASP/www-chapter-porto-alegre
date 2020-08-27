@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Porto Alegre
 tags: chapter-poa
 region: South America
-level: 0
+level: 4
 meetup-group: OWASP-Porto-Alegre-Chapter
 country: Brazil
 postal-code: 
