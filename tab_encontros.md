@@ -39,7 +39,7 @@ Desta vez convidamos o mestre Manoel Abreu Netto para falar sobre bug bounty
 
 * [Gravação encontro 003 - 30/07/2020](https://drive.google.com/file/d/1VlYkYjbwcL8Nat7geyFI-xrmYPSVSj9b/view?usp=sharing)
 
-### encontro 004 - 08/10/2020
+### Encontro 004 - 08/10/2020
 
 Nosso encontro 004 foi bilíngue em Inglês e portugues e falamos sobre Threat Modelling e busca por padrões complexos de código usando semgrep:
 
