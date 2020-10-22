@@ -44,6 +44,6 @@ Desta vez convidamos o mestre Manoel Abreu Netto para falar sobre bug bounty
 Nosso encontro 004 foi bilíngue em Inglês e portugues e falamos sobre Threat Modelling e busca por padrões complexos de código usando semgrep:
 
 * [Gravação encontro 004 - 08/10/2020](https://drive.google.com/file/d/1c4e0hRUPNvGfM-FhxYofIPIym5YDMtBC/view?usp=sharing)
-* [Modelamento de Ameaças Contínuo  para Times de Desenvolvimento] (https://drive.google.com/file/d/130nZPYX_PllhKXK7ocZjw1XG68KT5QsG/view?usp=sharing)
-* [Detect complex code patterns using semantic grep] (https://drive.google.com/file/d/1aEgQM-oUXqs46OFtjnPR0Jo1c3m6-DLV/view?usp=sharing)
+* [Modelamento de Ameaças Contínuo  para Times de Desenvolvimento](https://drive.google.com/file/d/130nZPYX_PllhKXK7ocZjw1XG68KT5QsG/view?usp=sharing) por [Izar Tarandach](https://www.linkedin.com/in/izartarandach/)
+* [Detect complex code patterns using semantic grep](https://drive.google.com/file/d/1aEgQM-oUXqs46OFtjnPR0Jo1c3m6-DLV/view?usp=sharing) por [Colleen Dai](https://www.linkedin.com/in/colleen-dai-839376b4/)
 
