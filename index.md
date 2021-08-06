@@ -44,8 +44,6 @@ Nossa visão é se tornar uma referência para a comunidade local e ser reconhec
 ## Como Participar
 As atividades e decisões do Capítulo são completamente horizontais e abertos à toda a comunidade, tanto para a participação como ouvintes, como também para apresentação de conteúdos ou sugestão de temas a serem discutidos, focando na transparência e divulgação de conhecimento de segurança de aplicações web dentro dos objetivos propostos pela OWASP. 
 
-* Call for speakers <https://forms.gle/EXjjnRrrC2UVq5aN9>
-
 * Nosso grupo no Meetup: <https://www.meetup.com/pt-BR/OWASP-Porto-Alegre-Chapter/>
 
 * Nosso canal no YouTube: <https://www.youtube.com/channel/UCce7zoNyJ1R3HM83cExEMNg>
