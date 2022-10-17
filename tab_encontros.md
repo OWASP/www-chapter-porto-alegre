@@ -1,12 +1,14 @@
 ---
 title: Encontros
 displaytext: Encontros
-layout: null
+layout: col-sidebar
 order: 1
 tab: true
 tags: chapter-poa
 meetup-group: OWASP-Porto-Alegre-Chapter
 country: Brazil
+region: South America
+postal-code: 
 ---
 
 # Próximos Encontros <!-- You should keep this section as it will populate your meetup events -->
