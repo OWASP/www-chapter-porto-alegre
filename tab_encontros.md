@@ -11,10 +11,6 @@ region: South America
 postal-code: 
 ---
 
-# Próximos Encontros <!-- You should keep this section as it will populate your meetup events -->
-
-{% include chapter_events.html group=page.meetup-group %}
-
 # Registro dos Encontros
 
 Esta página é utilizada para publicar toda informação compartilhada através dos encontros realizados remota ou localmente. 
