@@ -1,0 +1,25 @@
+leaders:
+  - name: Fernando Silva
+    email: fernando.silva@owasp.org
+    github: fernandodebrando
+  - name: Felipe Olivaes
+    email: felipe.olivaes@owasp.org
+    github: folivaes
+location:
+  country: Brazil
+  country_code: BR
+  region: Rio Grande do Sul
+  city: Porto Alegre
+  latitude: -30.0324999
+  longitude: -51.2303767
+meetup_group: OWASP-Porto-Alegre-Chapter
+name: OWASP Porto Alegre
+repositories:
+  - name: www-chapter-porto-alegre
+    url: https://github.com/OWASP/www-chapter-porto-alegre
+    description: OWASP Foundation Web Repository
+tags:
+  - chapter-poa
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-porto-alegre
